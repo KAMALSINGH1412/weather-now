@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,26 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Weather Now ☀️
+
+A simple React app for **Jamie (Outdoor Enthusiast)** to quickly check the **current weather conditions** in any city using the **Open-Meteo API**.
+
+## 🚀 Features
+- Search any city worldwide.
+- Displays temperature (°C), wind speed (km/h), and last updated time.
+- Clean, responsive UI with Tailwind CSS.
+- No API key required.
+
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- Open-Meteo API
+
+## 📦 Setup
+1. Clone the repo or open in CodeSandbox/StackBlitz.
+2. Run:
+   ```bash
+   npm install
+   npm run dev
+>>>>>>> 1ae6aac8689c27eaca51b9f5cf09e38b1edd16b4
